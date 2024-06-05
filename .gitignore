@@ -13,8 +13,6 @@ dist-ssr
 *.local
 
 #assets
-resume.pdf
-BigImg4.jpg
 #portfolio1/src/assets/BigImg4.jpg
 
 # Editor directories and files
