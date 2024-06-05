@@ -4,40 +4,34 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b  from-gray-800 to-black text-white"
+      className="w-full h-screen bg-gradient-to-b  from-gray-800 to-black text-white md:w-full"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
+        <div className="pb-3">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About Me
           </p>
         </div>
 
-        <p className="text-xl mt-10">
-          Greetings! I'm Raj Jadhav, an ardent MERN Stack Developer driven by an
-          insatiable curiosity and unwavering commitment to excellence in web
-          development. My journey into the realm of coding began with a spark of
-          fascination, evolving into a rentless pursuit of mastery. With
-          proficiency in HTML, CSS, ReactJS, NodeJS, ExpressJS, MongoDB and
-          programming languages like C, C++, JavaScript and Basics of Java and
-          Python. I specialize in crafting immersive digital experiences that
-          captivate audiences. Beyond coding, I thrive in collaborative
-          environments where the synergy of diverse perspectives fuels
-          innovation.
+        <p className="text-xl mt-12">
+          Greetings! I'm Raj Jadhav, a passionate MERN Stack Developer driven by
+          an insatiable curiosity and commitment to excellence. With expertise
+          in HTML, CSS, ReactJS, NodeJS, ExpressJS, MongoDB, and languages like
+          C, C++, JavaScript, Java, and Python, I craft immersive digital
+          experiences. My journey began with fascination, evolving into a
+          relentless pursuit of mastery, thriving in collaborative environments
+          to push boundaries.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Throughout my career, I've been fortunate to engage with a myriad of
-          projects, each presenting unique challenges that have fueled my
-          creative thinking and drive to push boundaries. From architecting
-          dynamic e-learning visualizations like DSA Vizualizer to engineering
-          robust web applications, every endeavor has served as a platform for
-          continuous growth and learning. My methodology is a fusion of
-          technical prowess, strategic acumen, and meticulous attention to
-          detail, ensuring that every project I embark upon not only meets but
-          surpasses expectations, yielding tangible and impactful results.
+          Beyond coding, I thrive in collaborative environments where diverse
+          perspectives fuel innovation. Throughout my career, I've been
+          fortunate to engage in a myriad of projects, each presenting unique
+          challenges that have sparked my creative thinking and drive to push
+          boundaries. Join me as I continue to explore and redefine the future
+          of web development.
         </p>
       </div>
     </div>
